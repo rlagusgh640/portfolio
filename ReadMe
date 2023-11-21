@@ -1,0 +1,3 @@
+cd freeboard_frontend로 이동후
+yarn install 실행
+yarn dev 실행
